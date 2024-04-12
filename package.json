@@ -1,0 +1,12 @@
+{
+  "name": "create-node-app",
+  "version": "1.0.0",
+  "description": "## Overview This project is a template for creating a Node.js application with MySQL database connection. It sets up a basic project structure with directories for routes, SQL queries, and database connection. The project uses Express for the web server and MySQL for database operations.",
+  "main": "index.js",
+  "scripts": {
+    "create-node-app": "node index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
